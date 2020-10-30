@@ -1,10 +1,10 @@
-<h1>Jogo de plataforma</h1>
+<h1 align="center">Jogo de plataforma</h1>
 <h1>
    <img src="ProjetoPlataforma-Inicio-PC_-Mac-_-Linux-Standalone-Unity-2019.4.gif">
 </h1>
 
 ## Sobre
-O jogo foi desenvolvido durante a matéria Desenvolvimento de Jogos.
+O jogo foi desenvolvido durante a disciplina Desenvolvimento de Jogos.
 
 ---
 
