@@ -1,0 +1,6476 @@
+fileFormatVersion: 2
+guid: ebbb7f81698af444889f7e4c57cb85ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7933898851139270336
+    second: DonaldDucksheet_0
+  - first:
+      213: -715268325810144851
+    second: DonaldDucksheet_1
+  - first:
+      213: 4967703843271831690
+    second: DonaldDucksheet_2
+  - first:
+      213: -4616387927180137741
+    second: DonaldDucksheet_3
+  - first:
+      213: -8516522489349951495
+    second: DonaldDucksheet_4
+  - first:
+      213: 9205452532295050283
+    second: DonaldDucksheet_5
+  - first:
+      213: 3662148054048468524
+    second: DonaldDucksheet_6
+  - first:
+      213: -4934173954076085661
+    second: DonaldDucksheet_7
+  - first:
+      213: 4288415211572511363
+    second: DonaldDucksheet_8
+  - first:
+      213: -6882111323403281871
+    second: DonaldDucksheet_9
+  - first:
+      213: 5960779856206719015
+    second: DonaldDucksheet_10
+  - first:
+      213: -1273131717502427543
+    second: DonaldDucksheet_11
+  - first:
+      213: -474900392326874715
+    second: DonaldDucksheet_12
+  - first:
+      213: 1608932293920942786
+    second: DonaldDucksheet_13
+  - first:
+      213: 1895677695471917010
+    second: DonaldDucksheet_14
+  - first:
+      213: 6356573091716244362
+    second: DonaldDucksheet_15
+  - first:
+      213: -3029094427330983553
+    second: DonaldDucksheet_16
+  - first:
+      213: -8176864757577475447
+    second: DonaldDucksheet_17
+  - first:
+      213: 8694628883662165712
+    second: DonaldDucksheet_18
+  - first:
+      213: -694500770904946781
+    second: DonaldDucksheet_19
+  - first:
+      213: 4448725616028457707
+    second: DonaldDucksheet_20
+  - first:
+      213: -5954801674214632820
+    second: DonaldDucksheet_21
+  - first:
+      213: 9036174324881528289
+    second: DonaldDucksheet_22
+  - first:
+      213: 5107600919608737381
+    second: DonaldDucksheet_23
+  - first:
+      213: 6034999976446532500
+    second: DonaldDucksheet_24
+  - first:
+      213: 4256915977671224377
+    second: DonaldDucksheet_25
+  - first:
+      213: 6772494338541984265
+    second: DonaldDucksheet_26
+  - first:
+      213: -3864952367128151784
+    second: DonaldDucksheet_27
+  - first:
+      213: -3942588245252957410
+    second: DonaldDucksheet_28
+  - first:
+      213: 3446782609465398364
+    second: DonaldDucksheet_29
+  - first:
+      213: 7538192813473831341
+    second: DonaldDucksheet_30
+  - first:
+      213: -847140844955755703
+    second: DonaldDucksheet_31
+  - first:
+      213: -668639075320204473
+    second: DonaldDucksheet_32
+  - first:
+      213: 4367517346883039503
+    second: DonaldDucksheet_33
+  - first:
+      213: 8856461454532019696
+    second: DonaldDucksheet_34
+  - first:
+      213: 6487188939551057847
+    second: DonaldDucksheet_35
+  - first:
+      213: -4921845766284597745
+    second: DonaldDucksheet_36
+  - first:
+      213: 3484728463931272855
+    second: DonaldDucksheet_37
+  - first:
+      213: 5113595993331259377
+    second: DonaldDucksheet_38
+  - first:
+      213: -5459310256883908034
+    second: DonaldDucksheet_39
+  - first:
+      213: -4111992605248130702
+    second: DonaldDucksheet_40
+  - first:
+      213: -1403181868533319808
+    second: DonaldDucksheet_41
+  - first:
+      213: -772223237766887227
+    second: DonaldDucksheet_42
+  - first:
+      213: 6459819014362023899
+    second: DonaldDucksheet_43
+  - first:
+      213: -2357220388321137058
+    second: DonaldDucksheet_44
+  - first:
+      213: -2056872371014471253
+    second: DonaldDucksheet_45
+  - first:
+      213: 5460879865338197101
+    second: DonaldDucksheet_46
+  - first:
+      213: 4538305096032572571
+    second: DonaldDucksheet_47
+  - first:
+      213: -8528261298910186076
+    second: DonaldDucksheet_48
+  - first:
+      213: 4308206197252194009
+    second: DonaldDucksheet_49
+  - first:
+      213: -7526136780151949530
+    second: DonaldDucksheet_50
+  - first:
+      213: 7216173782093829762
+    second: DonaldDucksheet_51
+  - first:
+      213: 8304517569178855767
+    second: DonaldDucksheet_52
+  - first:
+      213: 5435303588767326742
+    second: DonaldDucksheet_53
+  - first:
+      213: 8951725200488912229
+    second: DonaldDucksheet_54
+  - first:
+      213: -1722818680914613647
+    second: DonaldDucksheet_55
+  - first:
+      213: -4814537819072123243
+    second: DonaldDucksheet_56
+  - first:
+      213: -8881168939373880980
+    second: DonaldDucksheet_57
+  - first:
+      213: -735141494145383147
+    second: DonaldDucksheet_58
+  - first:
+      213: 8553244154725721072
+    second: DonaldDucksheet_59
+  - first:
+      213: 5848953667533781882
+    second: DonaldDucksheet_60
+  - first:
+      213: 6713104706008464647
+    second: DonaldDucksheet_61
+  - first:
+      213: 3459433248759946849
+    second: DonaldDucksheet_62
+  - first:
+      213: 9022310033129185335
+    second: DonaldDucksheet_63
+  - first:
+      213: 129710077048827773
+    second: DonaldDucksheet_64
+  - first:
+      213: -7041622689384500759
+    second: DonaldDucksheet_65
+  - first:
+      213: 9002324148714571350
+    second: DonaldDucksheet_66
+  - first:
+      213: 7442913942353520573
+    second: DonaldDucksheet_67
+  - first:
+      213: 7118785368470903818
+    second: DonaldDucksheet_68
+  - first:
+      213: -5101186771516634138
+    second: DonaldDucksheet_69
+  - first:
+      213: 665762701938759390
+    second: DonaldDucksheet_70
+  - first:
+      213: 8931976111428832621
+    second: DonaldDucksheet_71
+  - first:
+      213: -7974730357599272139
+    second: DonaldDucksheet_72
+  - first:
+      213: -8833883735282353217
+    second: DonaldDucksheet_73
+  - first:
+      213: 5038049248188105708
+    second: DonaldDucksheet_74
+  - first:
+      213: 6716122936434017884
+    second: DonaldDucksheet_75
+  - first:
+      213: -840686700540624386
+    second: DonaldDucksheet_76
+  - first:
+      213: -6578932282998315528
+    second: DonaldDucksheet_77
+  - first:
+      213: 6635165783621981991
+    second: DonaldDucksheet_78
+  - first:
+      213: 6447887196536347023
+    second: DonaldDucksheet_79
+  - first:
+      213: -4107298890128423944
+    second: DonaldDucksheet_80
+  - first:
+      213: 8337154007410494706
+    second: DonaldDucksheet_81
+  - first:
+      213: 706213229999606175
+    second: DonaldDucksheet_82
+  - first:
+      213: -1469032110185235560
+    second: DonaldDucksheet_83
+  - first:
+      213: -5204545002061453241
+    second: DonaldDucksheet_84
+  - first:
+      213: 8102956497613025381
+    second: DonaldDucksheet_85
+  - first:
+      213: -3956310177023005148
+    second: DonaldDucksheet_86
+  - first:
+      213: -8633254719816601316
+    second: DonaldDucksheet_87
+  - first:
+      213: -5333990687969409922
+    second: DonaldDucksheet_88
+  - first:
+      213: -947734386363683079
+    second: DonaldDucksheet_89
+  - first:
+      213: 4652386939153334547
+    second: DonaldDucksheet_90
+  - first:
+      213: -7382178276374862097
+    second: DonaldDucksheet_91
+  - first:
+      213: -4137459454607280341
+    second: DonaldDucksheet_92
+  - first:
+      213: -4127739820250705239
+    second: DonaldDucksheet_93
+  - first:
+      213: 6708423419002542493
+    second: DonaldDucksheet_94
+  - first:
+      213: -5409388363649435345
+    second: DonaldDucksheet_95
+  - first:
+      213: 8517485033431968198
+    second: DonaldDucksheet_96
+  - first:
+      213: 4487274041225892190
+    second: DonaldDucksheet_97
+  - first:
+      213: 3455562805183883304
+    second: DonaldDucksheet_98
+  - first:
+      213: -5802250344220757187
+    second: DonaldDucksheet_99
+  - first:
+      213: -2442230837272225589
+    second: DonaldDucksheet_100
+  - first:
+      213: 6627873032776594095
+    second: DonaldDucksheet_101
+  - first:
+      213: -2505549373985331741
+    second: DonaldDucksheet_102
+  - first:
+      213: 2111014869496470345
+    second: DonaldDucksheet_103
+  - first:
+      213: 948973720937922702
+    second: DonaldDucksheet_104
+  - first:
+      213: -3648019822955656023
+    second: DonaldDucksheet_105
+  - first:
+      213: -452384270379503050
+    second: DonaldDucksheet_106
+  - first:
+      213: -7957479833025228531
+    second: DonaldDucksheet_107
+  - first:
+      213: 6453765365497772677
+    second: DonaldDucksheet_108
+  - first:
+      213: 4558036670062406024
+    second: DonaldDucksheet_109
+  - first:
+      213: -3608332506284498549
+    second: DonaldDucksheet_110
+  - first:
+      213: 7189814431480684754
+    second: DonaldDucksheet_111
+  - first:
+      213: -398559071247755854
+    second: DonaldDucksheet_112
+  - first:
+      213: -3924363813205565463
+    second: DonaldDucksheet_113
+  - first:
+      213: 8593455522753333788
+    second: DonaldDucksheet_114
+  - first:
+      213: 1540272033853911223
+    second: DonaldDucksheet_115
+  - first:
+      213: 4515904504469716472
+    second: DonaldDucksheet_116
+  - first:
+      213: -8813899942460594177
+    second: DonaldDucksheet_117
+  - first:
+      213: -5439949251813334876
+    second: DonaldDucksheet_118
+  - first:
+      213: -6445462424120461947
+    second: DonaldDucksheet_119
+  - first:
+      213: 1975462500586261868
+    second: DonaldDucksheet_120
+  - first:
+      213: -1857690206751525686
+    second: DonaldDucksheet_121
+  - first:
+      213: 6210935114989342803
+    second: DonaldDucksheet_122
+  - first:
+      213: -4705293573149146801
+    second: DonaldDucksheet_123
+  - first:
+      213: 7859898520512039601
+    second: DonaldDucksheet_124
+  - first:
+      213: -7281657706924849536
+    second: DonaldDucksheet_125
+  - first:
+      213: 6966209032330235944
+    second: DonaldDucksheet_126
+  - first:
+      213: 8098059888787892423
+    second: DonaldDucksheet_127
+  - first:
+      213: -2090255284064891544
+    second: DonaldDucksheet_128
+  - first:
+      213: -304808837094857672
+    second: DonaldDucksheet_129
+  - first:
+      213: 3477912819039924346
+    second: DonaldDucksheet_130
+  - first:
+      213: -2957526225683667971
+    second: DonaldDucksheet_131
+  - first:
+      213: -8805394680636464452
+    second: DonaldDucksheet_132
+  - first:
+      213: -475478725916521820
+    second: DonaldDucksheet_133
+  - first:
+      213: -3985429159191213378
+    second: DonaldDucksheet_134
+  - first:
+      213: 496800178966940924
+    second: DonaldDucksheet_135
+  - first:
+      213: 7156312791482367669
+    second: DonaldDucksheet_136
+  - first:
+      213: -7257759822821757791
+    second: DonaldDucksheet_137
+  - first:
+      213: 1197808823350134772
+    second: DonaldDucksheet_138
+  - first:
+      213: -1296386905682742540
+    second: DonaldDucksheet_139
+  - first:
+      213: -4324429879247315866
+    second: DonaldDucksheet_140
+  - first:
+      213: -7977258230957694064
+    second: DonaldDucksheet_141
+  - first:
+      213: -7242743422387330463
+    second: DonaldDucksheet_142
+  - first:
+      213: -7116278645965352699
+    second: DonaldDucksheet_143
+  - first:
+      213: 2923457245335700439
+    second: DonaldDucksheet_144
+  - first:
+      213: 4967825740681559497
+    second: DonaldDucksheet_145
+  - first:
+      213: 5571291788259943419
+    second: DonaldDucksheet_146
+  - first:
+      213: 3087006785113479660
+    second: DonaldDucksheet_147
+  - first:
+      213: -3829598979159186806
+    second: DonaldDucksheet_148
+  - first:
+      213: -7793905828822605084
+    second: DonaldDucksheet_149
+  - first:
+      213: -6774799101914545367
+    second: DonaldDucksheet_150
+  - first:
+      213: -353572384593367624
+    second: DonaldDucksheet_151
+  - first:
+      213: -1719843073460401058
+    second: DonaldDucksheet_152
+  - first:
+      213: 732996133658177178
+    second: DonaldDucksheet_153
+  - first:
+      213: 4846798332534089838
+    second: DonaldDucksheet_154
+  - first:
+      213: -2109878752850668817
+    second: DonaldDucksheet_155
+  - first:
+      213: -5542152652323451338
+    second: DonaldDucksheet_156
+  - first:
+      213: -5851386664316034063
+    second: DonaldDucksheet_157
+  - first:
+      213: 4615373259374815715
+    second: DonaldDucksheet_158
+  - first:
+      213: -7193483762151100506
+    second: DonaldDucksheet_159
+  - first:
+      213: -9075272349414800042
+    second: DonaldDucksheet_160
+  - first:
+      213: 7288963967091690594
+    second: DonaldDucksheet_161
+  - first:
+      213: 7432315941689304224
+    second: DonaldDucksheet_162
+  - first:
+      213: -7004474192821456946
+    second: DonaldDucksheet_163
+  - first:
+      213: 7623622602273546037
+    second: DonaldDucksheet_164
+  - first:
+      213: -9087842255802986786
+    second: DonaldDucksheet_165
+  - first:
+      213: -3727382558303876880
+    second: DonaldDucksheet_166
+  - first:
+      213: 683023271351238625
+    second: DonaldDucksheet_167
+  - first:
+      213: 6950085828422555864
+    second: DonaldDucksheet_168
+  - first:
+      213: 4928237818174588423
+    second: DonaldDucksheet_169
+  - first:
+      213: 8197191642786952515
+    second: DonaldDucksheet_170
+  - first:
+      213: 4683420099867469627
+    second: DonaldDucksheet_171
+  - first:
+      213: -8110058336421181613
+    second: DonaldDucksheet_172
+  - first:
+      213: -7063379789254035104
+    second: DonaldDucksheet_173
+  - first:
+      213: 7767425810453153679
+    second: DonaldDucksheet_174
+  - first:
+      213: 9144372300149022534
+    second: DonaldDucksheet_175
+  - first:
+      213: -4956208384828551053
+    second: DonaldDucksheet_176
+  - first:
+      213: -3716138032983647004
+    second: DonaldDucksheet_177
+  - first:
+      213: 1801372331692975238
+    second: DonaldDucksheet_178
+  - first:
+      213: 4146596206827414871
+    second: DonaldDucksheet_179
+  - first:
+      213: 4355550882198667831
+    second: DonaldDucksheet_180
+  - first:
+      213: -970431086860095705
+    second: DonaldDucksheet_181
+  - first:
+      213: -3209481545902708532
+    second: DonaldDucksheet_182
+  - first:
+      213: -2860964117144996585
+    second: DonaldDucksheet_183
+  - first:
+      213: 947699686127791397
+    second: DonaldDucksheet_184
+  - first:
+      213: 316105546035439320
+    second: DonaldDucksheet_185
+  - first:
+      213: -4165618289416716403
+    second: DonaldDucksheet_186
+  - first:
+      213: -2322258353632779399
+    second: DonaldDucksheet_187
+  - first:
+      213: 4218535017586290415
+    second: DonaldDucksheet_188
+  - first:
+      213: -6100866592056579327
+    second: DonaldDucksheet_189
+  - first:
+      213: 8840564687873347076
+    second: DonaldDucksheet_190
+  - first:
+      213: -7834424577757056734
+    second: DonaldDucksheet_191
+  - first:
+      213: -8322185983036549128
+    second: DonaldDucksheet_192
+  - first:
+      213: 6652347542606063438
+    second: DonaldDucksheet_193
+  - first:
+      213: 7549045399486425121
+    second: DonaldDucksheet_194
+  - first:
+      213: -4575740345629086133
+    second: DonaldDucksheet_195
+  - first:
+      213: -5672137662649851845
+    second: DonaldDucksheet_196
+  - first:
+      213: -1608027331172257236
+    second: DonaldDucksheet_197
+  - first:
+      213: 6044841969675778128
+    second: DonaldDucksheet_198
+  - first:
+      213: 70973346033314286
+    second: DonaldDucksheet_199
+  - first:
+      213: 581426322484923947
+    second: DonaldDucksheet_200
+  - first:
+      213: 5512212501431088876
+    second: DonaldDucksheet_201
+  - first:
+      213: -1968665609391398973
+    second: DonaldDucksheet_202
+  - first:
+      213: -4312309094535021726
+    second: DonaldDucksheet_203
+  - first:
+      213: -8525329218038870325
+    second: DonaldDucksheet_204
+  - first:
+      213: -7807958722946620776
+    second: DonaldDucksheet_205
+  - first:
+      213: -5769065253466193438
+    second: DonaldDucksheet_206
+  - first:
+      213: -2403070275365163742
+    second: DonaldDucksheet_207
+  - first:
+      213: 5825428693110369392
+    second: DonaldDucksheet_208
+  - first:
+      213: -4974446940479895767
+    second: DonaldDucksheet_209
+  - first:
+      213: -5211284751537830078
+    second: DonaldDucksheet_210
+  - first:
+      213: -5681419163411096971
+    second: DonaldDucksheet_211
+  - first:
+      213: 5535287298589896335
+    second: DonaldDucksheet_212
+  - first:
+      213: 7049334929031100989
+    second: DonaldDucksheet_213
+  - first:
+      213: 2677215854188203281
+    second: DonaldDucksheet_214
+  - first:
+      213: -2378081448737726410
+    second: DonaldDucksheet_215
+  - first:
+      213: -2561223372766890903
+    second: DonaldDucksheet_216
+  - first:
+      213: -5541012346854019753
+    second: DonaldDucksheet_217
+  - first:
+      213: 5132970239732170416
+    second: DonaldDucksheet_218
+  - first:
+      213: 4927283454565851004
+    second: DonaldDucksheet_219
+  - first:
+      213: 2688689831708098890
+    second: DonaldDucksheet_220
+  - first:
+      213: -6315291781268084364
+    second: DonaldDucksheet_221
+  - first:
+      213: 6380505067526804900
+    second: DonaldDucksheet_222
+  - first:
+      213: 8344221531923733141
+    second: DonaldDucksheet_223
+  - first:
+      213: -8714807376733671216
+    second: DonaldDucksheet_224
+  - first:
+      213: -3103287741520945250
+    second: DonaldDucksheet_225
+  - first:
+      213: 5933859976516720046
+    second: DonaldDucksheet_226
+  - first:
+      213: -3996517688918031021
+    second: DonaldDucksheet_227
+  - first:
+      213: -3867113329144097973
+    second: DonaldDucksheet_228
+  - first:
+      213: 8099530060966973021
+    second: DonaldDucksheet_229
+  - first:
+      213: -4254965103187433241
+    second: DonaldDucksheet_230
+  - first:
+      213: 8096315078754727191
+    second: DonaldDucksheet_231
+  - first:
+      213: -344637780289001192
+    second: DonaldDucksheet_232
+  - first:
+      213: 3976523229717930988
+    second: DonaldDucksheet_233
+  - first:
+      213: 6607924854784636194
+    second: DonaldDucksheet_234
+  - first:
+      213: 1613856886854785540
+    second: DonaldDucksheet_235
+  - first:
+      213: 3353812986061401985
+    second: DonaldDucksheet_236
+  - first:
+      213: 6117087155293717443
+    second: DonaldDucksheet_237
+  - first:
+      213: -3151904359738697534
+    second: DonaldDucksheet_238
+  - first:
+      213: 1438882720171282687
+    second: DonaldDucksheet_239
+  - first:
+      213: -6130991426166503441
+    second: DonaldDucksheet_240
+  - first:
+      213: -2693529713979922003
+    second: DonaldDucksheet_241
+  - first:
+      213: 2694399418270852596
+    second: DonaldDucksheet_242
+  - first:
+      213: 6705103064755320894
+    second: DonaldDucksheet_243
+  - first:
+      213: -8999286164341316409
+    second: DonaldDucksheet_244
+  - first:
+      213: 1493032046730765832
+    second: DonaldDucksheet_245
+  - first:
+      213: -9033050687584658767
+    second: DonaldDucksheet_246
+  - first:
+      213: 8421583588646949749
+    second: DonaldDucksheet_247
+  - first:
+      213: 3200460005838372339
+    second: DonaldDucksheet_248
+  - first:
+      213: 3605620143328069640
+    second: DonaldDucksheet_249
+  - first:
+      213: -6409205126517717163
+    second: DonaldDucksheet_250
+  - first:
+      213: -1782957779070733909
+    second: DonaldDucksheet_251
+  - first:
+      213: 4571624538925305524
+    second: DonaldDucksheet_252
+  - first:
+      213: 2563611709533530432
+    second: DonaldDucksheet_253
+  - first:
+      213: -5887517990559871804
+    second: DonaldDucksheet_254
+  - first:
+      213: 72126606630800316
+    second: DonaldDucksheet_255
+  - first:
+      213: -6238743976374212882
+    second: DonaldDucksheet_256
+  - first:
+      213: -648210289430668133
+    second: DonaldDucksheet_257
+  - first:
+      213: -4597759368757746334
+    second: DonaldDucksheet_258
+  - first:
+      213: -4797421421670640439
+    second: DonaldDucksheet_259
+  - first:
+      213: 421479890265790458
+    second: DonaldDucksheet_260
+  - first:
+      213: 7708457351051875608
+    second: DonaldDucksheet_261
+  - first:
+      213: -8975605512021697713
+    second: DonaldDucksheet_262
+  - first:
+      213: 5183654596613100144
+    second: DonaldDucksheet_263
+  - first:
+      213: -7499155180768679768
+    second: DonaldDucksheet_264
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DonaldDucksheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1175
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c6fdc70125e190800000000000000
+      internalID: -7933898851139270336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1175
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da97ff05f3bd216f0800000000000000
+      internalID: -715268325810144851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1175
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807f8f4354d0f440800000000000000
+      internalID: 4967703843271831690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1175
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faa60f83ab4fefb0800000000000000
+      internalID: -4616387927180137741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1175
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffabac1beb3fc980800000000000000
+      internalID: -8516522489349951495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1175
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24aa283e4650cf70800000000000000
+      internalID: 9205452532295050283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1175
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6274904092d230800000000000000
+      internalID: 3662148054048468524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1175
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627f4f5eea468bb0800000000000000
+      internalID: -4934173954076085661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1175
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3824927f9e2838b30800000000000000
+      internalID: 4288415211572511363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1175
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a9adfd634dd70a0800000000000000
+      internalID: -6882111323403281871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1175
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728618992b1f8b250800000000000000
+      internalID: 5960779856206719015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1175
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e1cf1c27de45ee0800000000000000
+      internalID: -1273131717502427543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_12
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b9abfb90d869f0800000000000000
+      internalID: -474900392326874715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caefc69563145610800000000000000
+      internalID: 1608932293920942786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71c3ff1dcce4a10800000000000000
+      internalID: 1895677695471917010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ad806c85173850800000000000000
+      internalID: 6356573091716244362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1175
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7942dbcaae76f5d0800000000000000
+      internalID: -3029094427330983553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1173
+        width: 288
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a1f2c63d0f58e80800000000000000
+      internalID: -8176864757577475447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1080
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6d88057e689a870800000000000000
+      internalID: 8694628883662165712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1080
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c9fd7a33ac56f0800000000000000
+      internalID: -694500770904946781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1080
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea9e8e906c0dbd30800000000000000
+      internalID: 4448725616028457707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1080
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82198c5d6b4c5da0800000000000000
+      internalID: -5954801674214632820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1080
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5911b3ca0f66d70800000000000000
+      internalID: 9036174324881528289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1080
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ebcb3a9f7d1e640800000000000000
+      internalID: 5107600919608737381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1080
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b1697f080a0c350800000000000000
+      internalID: 6034999976446532500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1082
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c27cf078a931b30800000000000000
+      internalID: 4256915977671224377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1080
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a932cf7bbbcfd50800000000000000
+      internalID: 6772494338541984265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1080
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819758bac4eec5ac0800000000000000
+      internalID: -3864952367128151784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1085
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b111231ec1949c0800000000000000
+      internalID: -3942588245252957410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1105
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54dd2f758e65df20800000000000000
+      internalID: 3446782609465398364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1095
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9928fbc6a0d9860800000000000000
+      internalID: 7538192813473831341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1080
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b10bdc3e95e34f0800000000000000
+      internalID: -847140844955755703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_32
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1080
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f798bd4488b6f0800000000000000
+      internalID: -668639075320204473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_33
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1080
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f15b03e98c9c30800000000000000
+      internalID: 4367517346883039503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_34
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1080
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50254f4c878ea70800000000000000
+      internalID: 8856461454532019696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_35
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1081
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7a8cc48ff170a50800000000000000
+      internalID: 6487188939551057847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_36
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1081
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06a8554a5712bbb0800000000000000
+      internalID: -4921845766284597745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_37
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1081
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ee057331e3c5030800000000000000
+      internalID: 3484728463931272855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_38
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1081
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7de53867427f640800000000000000
+      internalID: 5113595993331259377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_39
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1081
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c9cbfe32ac34b0800000000000000
+      internalID: -5459310256883908034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_40
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1081
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f62503844fe6c0800000000000000
+      internalID: -4111992605248130702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_41
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1081
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0877dc26685e68ce0800000000000000
+      internalID: -1403181868533319808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 975
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84a918e038845f0800000000000000
+      internalID: -772223237766887227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 975
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7cc500b23e5a950800000000000000
+      internalID: 6459819014362023899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 975
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6fc0cb88794fd0800000000000000
+      internalID: -2357220388321137058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_45
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 985
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1fd51f9758473e0800000000000000
+      internalID: -2056872371014471253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_46
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1000
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64f096fd41f8cb40800000000000000
+      internalID: 5460879865338197101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1008
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94dd5b907c4bfe30800000000000000
+      internalID: 4538305096032572571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 995
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a53fb6888785a980800000000000000
+      internalID: -8528261298910186076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 980
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de7a56e5b2d9cb30800000000000000
+      internalID: 4308206197252194009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 975
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6277a00497acd8790800000000000000
+      internalID: -7526136780151949530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 975
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286903762dff42460800000000000000
+      internalID: 7216173782093829762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 975
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75965eddab29f3370800000000000000
+      internalID: 8304517569178855767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_53
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 975
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e1e601d31e6b40800000000000000
+      internalID: 5435303588767326742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_54
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 975
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565dd0e34aaea3c70800000000000000
+      internalID: 8951725200488912229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_55
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 975
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a6daf99815718e0800000000000000
+      internalID: -1722818680914613647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_56
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 975
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea580bc535f2db0800000000000000
+      internalID: -4814537819072123243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_57
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 975
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69136277efbfb480800000000000000
+      internalID: -8881168939373880980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_58
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 975
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51580ddb4b04cc5f0800000000000000
+      internalID: -735141494145383147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_59
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 975
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ec9fdd3a33b670800000000000000
+      internalID: 8553244154725721072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_60
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 975
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb11d1f58ab2150800000000000000
+      internalID: 5848953667533781882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_61
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 975
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d33ad992db92d50800000000000000
+      internalID: 6713104706008464647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e138cf530620030800000000000000
+      internalID: 3459433248759946849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 895
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ab124c2fa53d70800000000000000
+      internalID: 9022310033129185335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 895
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa84ab0a2dcc100800000000000000
+      internalID: 129710077048827773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 895
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f7ecd871274e90800000000000000
+      internalID: -7041622689384500759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 894
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6568d0ded1eaeec70800000000000000
+      internalID: 9002324148714571350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 895
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a8cbdbca8a4760800000000000000
+      internalID: 7442913942353520573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_68
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 895
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd4ff53910bc260800000000000000
+      internalID: 7118785368470903818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_69
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 895
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb44d698a1f439b0800000000000000
+      internalID: -5101186771516634138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_70
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 895
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed693c966a34d3900800000000000000
+      internalID: 665762701938759390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 895
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d8dff13f0c4fb70800000000000000
+      internalID: 8931976111428832621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_72
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 895
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53385cfddf0145190800000000000000
+      internalID: -7974730357599272139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_73
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 895
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf463fb8db76580800000000000000
+      internalID: -8833883735282353217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_74
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 895
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce30d27391fbae540800000000000000
+      internalID: 5038049248188105708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_75
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 895
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c0062a36743d50800000000000000
+      internalID: 6716122936434017884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_76
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 820
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef181e666e74554f0800000000000000
+      internalID: -840686700540624386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 810
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5298ef1ffe2b4a0800000000000000
+      internalID: -6578932282998315528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 871
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275d962028d41c50800000000000000
+      internalID: 6635165783621981991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_79
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 863
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89965d2e3f7b7950800000000000000
+      internalID: 6447887196536347023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_80
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 858
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f30a8bbb61fff6c0800000000000000
+      internalID: -4107298890128423944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_81
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 808
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4d69c56583b370800000000000000
+      internalID: 8337154007410494706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 863
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99cec5e039fcc900800000000000000
+      internalID: 706213229999606175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_83
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 854
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b34cc3413fc9be0800000000000000
+      internalID: -1469032110185235560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_84
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 806
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a79e35edb5c7b0800000000000000
+      internalID: -5204545002061453241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_85
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 807
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560faa6d00c737070800000000000000
+      internalID: 8102956497613025381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_86
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 810
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee74dfadc5819c0800000000000000
+      internalID: -3956310177023005148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_87
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 810
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11fdd1c294803880800000000000000
+      internalID: -8633254719816601316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 810
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748750eabbd9f5b0800000000000000
+      internalID: -5333990687969409922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 810
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feae5fc898f8d2f0800000000000000
+      internalID: -947734386363683079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 810
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c6e19549909040800000000000000
+      internalID: 4652386939153334547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 810
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6221858fb3d8990800000000000000
+      internalID: -7382178276374862097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_92
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 810
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b273d871c8ac496c0800000000000000
+      internalID: -4137459454607280341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_93
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 810
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d8b0d08257b6c0800000000000000
+      internalID: -4127739820250705239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 810
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99de8c8e8b191d50800000000000000
+      internalID: 6708423419002542493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_95
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 810
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f293b8481fdfde4b0800000000000000
+      internalID: -5409388363649435345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_96
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 807
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c92b65a28f243670800000000000000
+      internalID: 8517485033431968198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_97
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 807
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d91547fff54e30800000000000000
+      internalID: 4487274041225892190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_98
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 803
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a90e1010a4ff20800000000000000
+      internalID: 3455562805183883304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_99
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 803
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3375d6bd044a7fa0800000000000000
+      internalID: -5802250344220757187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_100
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 806
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc852e43ef37b1ed0800000000000000
+      internalID: -2442230837272225589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_101
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 808
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa23a07486feafb50800000000000000
+      internalID: 6627873032776594095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_102
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 806
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5e66c8e108a3dd0800000000000000
+      internalID: -2505549373985331741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_103
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 806
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b97e3d6d4db4d10800000000000000
+      internalID: 2111014869496470345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 725
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e808fa1429e6b2d00800000000000000
+      internalID: 948973720937922702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_105
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 725
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac052f8c41af5dc0800000000000000
+      internalID: -3648019822955656023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_106
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 725
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323e0627eec8b9f0800000000000000
+      internalID: -452384270379503050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_107
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 725
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01523d904a519190800000000000000
+      internalID: -7957479833025228531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_108
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 725
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab63a0861609950800000000000000
+      internalID: 6453765365497772677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_109
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 725
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8892640b336614f30800000000000000
+      internalID: 4558036670062406024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_110
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 725
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ea6b04b0acedc0800000000000000
+      internalID: -3608332506284498549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 725
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d02265d12a57c360800000000000000
+      internalID: 7189814431480684754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_112
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 725
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59448e2a8087af0800000000000000
+      internalID: -398559071247755854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_113
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 725
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef1c7077ebd989c0800000000000000
+      internalID: -3924363813205565463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_114
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 725
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac4d29446124770800000000000000
+      internalID: 8593455522753333788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_115
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b45b0145206510800000000000000
+      internalID: 1540272033853911223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_116
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 725
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdf0847837bbae30800000000000000
+      internalID: 4515904504469716472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_117
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 725
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7eccb43bcbea580800000000000000
+      internalID: -8813899942460594177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_118
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 725
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a3814afa6184b0800000000000000
+      internalID: -5439949251813334876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_119
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 725
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585fb25231e1d86a0800000000000000
+      internalID: -6445462424120461947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_120
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 725
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8c868da04a6b10800000000000000
+      internalID: 1975462500586261868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_121
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac47ad379982836e0800000000000000
+      internalID: -1857690206751525686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_122
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 725
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35090f3849ca13650800000000000000
+      internalID: 6210935114989342803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_123
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 725
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414488cc6073beb0800000000000000
+      internalID: -4705293573149146801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_124
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 725
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0db59f08f31d60800000000000000
+      internalID: 7859898520512039601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_125
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08642ca35ea52fa90800000000000000
+      internalID: -7281657706924849536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_126
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 725
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8205923d432fca060800000000000000
+      internalID: 6966209032330235944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_127
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 725
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8aa014096126070800000000000000
+      internalID: 8098059888787892423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_128
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 725
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dcd6fc4ebedf2e0800000000000000
+      internalID: -2090255284064891544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834af844af915cbf0800000000000000
+      internalID: -304808837094857672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_130
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 635
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f6aa3847044030800000000000000
+      internalID: 3477912819039924346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_131
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 635
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df329304191c4f6d0800000000000000
+      internalID: -2957526225683667971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 635
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2ac81e034fcc580800000000000000
+      internalID: -8805394680636464452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 635
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa8d733e92c669f0800000000000000
+      internalID: -475478725916521820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_134
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 635
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8ce0ab49e0b8c0800000000000000
+      internalID: -3985429159191213378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_135
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 635
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcccaf612df4e600800000000000000
+      internalID: 496800178966940924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 635
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef3ed6194505360800000000000000
+      internalID: 7156312791482367669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_137
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 635
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac6b97f4e1474b90800000000000000
+      internalID: -7257759822821757791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_138
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 635
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70d9057c87f9010800000000000000
+      internalID: 1197808823350134772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 635
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ff435afe420ee0800000000000000
+      internalID: -1296386905682742540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_140
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 635
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cd067cfe98cf3c0800000000000000
+      internalID: -4324429879247315866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_141
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 635
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a43e77e51b4190800000000000000
+      internalID: -7977258230957694064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_142
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 657
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1626e452b3b9c7b90800000000000000
+      internalID: -7242743422387330463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_143
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 635
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50199807646ed3d90800000000000000
+      internalID: -7116278645965352699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_144
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 659
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3c64020e4329820800000000000000
+      internalID: 2923457245335700439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_145
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 635
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdbd53c03341f440800000000000000
+      internalID: 4967825740681559497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_146
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 635
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e84b0d54315d40800000000000000
+      internalID: 5571291788259943419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 535
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d8edb05047da20800000000000000
+      internalID: 3087006785113479660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 535
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a40fb4088adac0800000000000000
+      internalID: -3829598979159186806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 535
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ae2c41fb76d390800000000000000
+      internalID: -7793905828822605084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_150
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 535
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9238fb97c141bf1a0800000000000000
+      internalID: -6774799101914545367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 535
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdaced1acbd71bf0800000000000000
+      internalID: -353572384593367624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_152
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 540
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c0af836d3e128e0800000000000000
+      internalID: -1719843073460401058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_153
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 565
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e2e6899102c2a00800000000000000
+      internalID: 732996133658177178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_154
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 543
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6866ac6769434340800000000000000
+      internalID: 4846798332534089838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_155
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 565
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21131f37438b2e0800000000000000
+      internalID: -2109878752850668817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_156
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 544
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e854bb6815613b0800000000000000
+      internalID: -5542152652323451338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_157
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 535
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32cfda4d2bbcea0800000000000000
+      internalID: -5851386664316034063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_158
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 535
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96fdea6891d0040800000000000000
+      internalID: 4615373259374815715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_159
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 542
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af617b81ac9b2c90800000000000000
+      internalID: -7193483762151100506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_160
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 535
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655c43d81e72e0280800000000000000
+      internalID: -9075272349414800042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_161
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 535
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4f170c1a972560800000000000000
+      internalID: 7288963967091690594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_162
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 535
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42dda88f3e42760800000000000000
+      internalID: 7432315941689304224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_163
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 537
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6c7a35db1bce90800000000000000
+      internalID: -7004474192821456946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_164
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 543
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f57267d5c8cc960800000000000000
+      internalID: 7623622602273546037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_165
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 557
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede04182e9f71e180800000000000000
+      internalID: -9087842255802986786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_166
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 550
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f88f4ecf4da54cc0800000000000000
+      internalID: -3727382558303876880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_167
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 541
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef3736eb069a7900800000000000000
+      internalID: 683023271351238625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_168
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 535
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d85a91ec3aa37060800000000000000
+      internalID: 6950085828422555864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_169
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70641f84f2e946440800000000000000
+      internalID: 4928237818174588423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_170
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345fd185e5642c170800000000000000
+      internalID: 8197191642786952515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_171
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37668a54c9def040800000000000000
+      internalID: 4683420099867469627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_172
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3578be579e8437f80800000000000000
+      internalID: -8110058336421181613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_173
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f6db4185d9fd90800000000000000
+      internalID: -7063379789254035104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_174
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 535
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c24bfe907bcb60800000000000000
+      internalID: 7767425810453153679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_175
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 534
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fdd44782657ee70800000000000000
+      internalID: 9144372300149022534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3705b7dabb2083bb0800000000000000
+      internalID: -4956208384828551053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_177
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 438
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd0bfd520ad6cc0800000000000000
+      internalID: -3716138032983647004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_178
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 422
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e6c27792cff810800000000000000
+      internalID: 1801372331692975238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_179
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 439
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552eeec74bab8930800000000000000
+      internalID: 4146596206827414871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_180
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 447
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732479e5376027c30800000000000000
+      internalID: 4355550882198667831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_181
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 445
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f25bc61165882f0800000000000000
+      internalID: -970431086860095705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_182
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 462
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82c4fd981a573d0800000000000000
+      internalID: -3209481545902708532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_183
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 440
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715fe622b40db48d0800000000000000
+      internalID: -2860964117144996585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_184
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 434
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d6569e7d7e62d00800000000000000
+      internalID: 947699686127791397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_185
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 435
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d629feb158036400800000000000000
+      internalID: 316105546035439320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_186
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 430
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f32757c30c036c0800000000000000
+      internalID: -4165618289416716403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_187
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 425
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973e80bc45ea5cfd0800000000000000
+      internalID: -2322258353632779399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_188
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee6cb6f3f3b8a30800000000000000
+      internalID: 4218535017586290415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_189
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b6b66882e555ba0800000000000000
+      internalID: -6100866592056579327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_190
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 350
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8d8a8ebeffaa70800000000000000
+      internalID: 8840564687873347076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_191
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 350
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217337ea58864390800000000000000
+      internalID: -7834424577757056734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_192
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 350
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f71f56f0f7a18c80800000000000000
+      internalID: -8322185983036549128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_193
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 349
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472a7728d2e15c50800000000000000
+      internalID: 6652347542606063438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_194
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 350
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286fa55bc893c860800000000000000
+      internalID: 7549045399486425121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_195
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 350
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eea522664bf70c0800000000000000
+      internalID: -4575740345629086133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_196
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 350
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3024ac19d48841b0800000000000000
+      internalID: -5672137662649851845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_197
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 350
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22bb5879a32fa9e0800000000000000
+      internalID: -1608027331172257236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_198
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 350
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058b5e59eb793e350800000000000000
+      internalID: 6044841969675778128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_199
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 350
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee926d6d1e52cf000800000000000000
+      internalID: 70973346033314286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_200
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 350
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e86c6e824a11800800000000000000
+      internalID: 581426322484923947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_201
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 350
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6744aa0105f7c40800000000000000
+      internalID: 5512212501431088876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_202
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 357
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf92b60f05eda4e0800000000000000
+      internalID: -1968665609391398973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_203
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 350
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bbd82e9b99724c0800000000000000
+      internalID: -4312309094535021726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_204
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 353
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec88dce32ffa980800000000000000
+      internalID: -8525329218038870325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_205
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 353
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892aad9e8ee84a390800000000000000
+      internalID: -7807958722946620776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_206
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 354
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14911c7b920ffa0800000000000000
+      internalID: -5769065253466193438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_207
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 356
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d2f8a015496aed0800000000000000
+      internalID: -2403070275365163742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_208
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 350
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c263d288418d050800000000000000
+      internalID: 5825428693110369392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_209
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 350
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927caa60dd637fab0800000000000000
+      internalID: -4974446940479895767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_210
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 350
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478d29012ccda7b0800000000000000
+      internalID: -5211284751537830078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_211
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 350
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad8c05f5b8721b0800000000000000
+      internalID: -5681419163411096971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_212
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 350
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eae2a887a41dc40800000000000000
+      internalID: 5535287298589896335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3af6abd4c444d160800000000000000
+      internalID: 7049334929031100989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_214
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 261
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d8ee782a1672520800000000000000
+      internalID: 2677215854188203281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_215
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 278
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630aa01a58b5ffed0800000000000000
+      internalID: -2378081448737726410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_216
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 265
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643dc399e4b47cd0800000000000000
+      internalID: -2561223372766890903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_217
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 250
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d66b9c0ae5a13b0800000000000000
+      internalID: -5541012346854019753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_218
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 245
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be33e5cc39fb3740800000000000000
+      internalID: 5132970239732170416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_219
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 245
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f9e01323a316440800000000000000
+      internalID: 4927283454565851004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_220
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 243
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a418a2a1825205520800000000000000
+      internalID: 2688689831708098890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_221
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 244
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796294b5939b58a0800000000000000
+      internalID: -6315291781268084364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_222
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 244
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d385bd8b1c8850800000000000000
+      internalID: 6380505067526804900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_223
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 245
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ada711641acc370800000000000000
+      internalID: 8344221531923733141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_224
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 245
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0f5d72dd8ce0780800000000000000
+      internalID: -8714807376733671216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_225
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 245
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd1d2bd38eee4d0800000000000000
+      internalID: -3103287741520945250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_226
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5df2fa53e495250800000000000000
+      internalID: 5933859976516720046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_227
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 105
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c97d16548988c0800000000000000
+      internalID: -3996517688918031021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_228
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 105
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43103e7ae0455ac0800000000000000
+      internalID: -3867113329144097973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_229
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 105
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ec8836daf476070800000000000000
+      internalID: 8099530060966973021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e864dc48c353f4c0800000000000000
+      internalID: -4254965103187433241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_231
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 165
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71570d20ba3eb5070800000000000000
+      internalID: 8096315078754727191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_232
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 147
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e1b9c3c9973bf0800000000000000
+      internalID: -344637780289001192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_233
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 125
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32d641fc27f2730800000000000000
+      internalID: 3976523229717930988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_234
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225b9e725a014bb50800000000000000
+      internalID: 6607924854784636194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_235
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 120
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1c4bb942956610800000000000000
+      internalID: 1613856886854785540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_236
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 120
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f284d34232b8e20800000000000000
+      internalID: 3353812986061401985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_237
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 120
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c30367ab5244e450800000000000000
+      internalID: 6117087155293717443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_238
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 120
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c815cf2faf2244d0800000000000000
+      internalID: -3151904359738697534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_239
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 105
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0d141e530f7f310800000000000000
+      internalID: 1438882720171282687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7416208c75aeaa0800000000000000
+      internalID: -6130991426166503441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_241
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 20
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9644efef8ae9ad0800000000000000
+      internalID: -2693529713979922003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_242
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ad01defd646520800000000000000
+      internalID: 2694399418270852596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_243
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 20
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38bf1556bf4d0d50800000000000000
+      internalID: 6705103064755320894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_244
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 20
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4295ee9ec1c1380800000000000000
+      internalID: -8999286164341316409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_245
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 20
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80669af6cb058b410800000000000000
+      internalID: 1493032046730765832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_246
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 20
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1b60424824a280800000000000000
+      internalID: -9033050687584658767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_247
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 7
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5739f8787a97fd470800000000000000
+      internalID: 8421583588646949749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_248
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 7
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd37d52b615a6c20800000000000000
+      internalID: 3200460005838372339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_249
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 7
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808001eba6cb90230800000000000000
+      internalID: 3605620143328069640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_250
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 6
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5578c4515eded07a0800000000000000
+      internalID: -6409205126517717163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_251
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 6
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba138f0b859a147e0800000000000000
+      internalID: -1782957779070733909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_252
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be0a11fb4ca17f30800000000000000
+      internalID: 4571624538925305524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_253
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 8
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04927c86447c39320800000000000000
+      internalID: 2563611709533530432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_254
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 7
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc05fbb4955b4ea0800000000000000
+      internalID: -5887517990559871804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_255
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 6
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb451f34ce300100800000000000000
+      internalID: 72126606630800316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_256
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 7
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee66b9368678b69a0800000000000000
+      internalID: -6238743976374212882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_257
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 7
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c5bb61d281107f0800000000000000
+      internalID: -648210289430668133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_258
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265687ec63a7130c0800000000000000
+      internalID: -4597759368757746334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_259
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d87382a22c6db0800000000000000
+      internalID: -4797421421670640439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_260
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af753432ab569d500800000000000000
+      internalID: 421479890265790458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_261
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 20
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81512bf9e11f9fa60800000000000000
+      internalID: 7708457351051875608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_262
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 20
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b98e3775e307380800000000000000
+      internalID: -8975605512021697713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_263
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 20
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d175346a00f740800000000000000
+      internalID: 5183654596613100144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonaldDucksheet_264
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 20
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a0c66816ade790800000000000000
+      internalID: -7499155180768679768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
